@@ -27,6 +27,5 @@
 
 <div>
     <a href="https://github.com/m21ark">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=m21ark&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m21ark&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=m21ark&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
 </div>
