@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 
-🎓 I recently completed my Master’s and Bachelor’s degrees in Informatics and Computing Engineering at FEUP, where I achieved a final grade of 18 in both.
+🎓 I recently completed my Master’s and Bachelor’s degrees in Informatics and Computing Engineering at University of Porto (FEUP), where I achieved a final grade of 18 in both.
 
-💻 I enjoy building innovative tech projects to solve real-world problems. My main interests include software engineering, machine learning, and application-driven solutions.
+⛏️ I enjoy building innovative tech projects to solve real-world problems. My main interests include high-level software engineering, machine learning, and application-driven solutions.
 
 🌱 I'm currently looking for full-time opportunities in software development and machine learning.
 
@@ -22,6 +22,17 @@
 | **☁️ Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 | **💿 Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **🧰 Other Skills** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+
+<!--
+### ✏️ Projects
+
+TODO INSERT TABLE OF PROJECTS HERE
+
+| Project Name | Description | Software Tools |
+|--------------|-------------|-------------|
+| NAME AND LINK | DESCRIBE PROJECT IN SMALL SENTENCE | WHICH LANGAUGES AND FRAMEWORKS WERE USED |
+-->
+
 
 ## 🌐 Socials:
 
