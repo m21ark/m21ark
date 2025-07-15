@@ -11,7 +11,7 @@
 ### 🌍 Languages
 
 - Native Portuguese  
-- Extremely proficient in English (native fluency)
+- Proficient in English (native-level fluency)
 
 ### 🌐 Socials
 
