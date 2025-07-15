@@ -1,6 +1,6 @@
 # Hey there, I’m Marco André! 👋
 
-## 💫 About Me:
+## 💫 About Me
 
 🎓 I recently completed my Master’s and Bachelor’s degrees in Informatics and Computing Engineering at University of Porto (FEUP), where I achieved a final grade of 18 in both.
 
@@ -8,10 +8,16 @@
 
 🌱 I'm currently looking for full-time opportunities in software development and machine learning.
 
-### 🌍 Languages:
+### 🌍 Languages
 
 - Native Portuguese  
 - Extremely proficient in English (native fluency)
+
+### 🌐 Socials
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco21andre/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marco21andre)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoandre2103@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -32,23 +38,6 @@ TODO INSERT TABLE OF PROJECTS HERE
 |--------------|-------------|-------------|
 | NAME AND LINK | DESCRIBE PROJECT IN SMALL SENTENCE | WHICH LANGAUGES AND FRAMEWORKS WERE USED |
 -->
-
-
-## 🌐 Socials:
-
-<p>
-  <a href="https://www.linkedin.com/in/marco21andre/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@marco21andre" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="mailto:marcoandre2103@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<br>
 
 ## 📈 GitHub stats
 
