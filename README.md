@@ -29,15 +29,9 @@
 | **💿 Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **🧰 Other Skills** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 
-<!--
-### ✏️ Projects
+## ✏️ Projects
 
-TODO INSERT TABLE OF PROJECTS HERE
-
-| Project Name | Description | Software Tools |
-|--------------|-------------|-------------|
-| NAME AND LINK | DESCRIBE PROJECT IN SMALL SENTENCE | WHICH LANGAUGES AND FRAMEWORKS WERE USED |
--->
+Want to see what I've been working on? Check out my [full project list](https://m21ark.github.io/projects) on my website!
 
 ## 📈 GitHub stats
 
