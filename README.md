@@ -1,12 +1,10 @@
 # Hey there, I’m Marco André! 👋
 
-## 💫 About Me
+## About Me
 
-🎓 I recently completed my Master’s and Bachelor’s degrees in Informatics and Computing Engineering at University of Porto (FEUP), where I achieved a final grade of 18 in both.
+🎓 I am a Master’s and Bachelor’s graduate in Informatics and Computing Engineering at University of Porto (FEUP), where I achieved a final grade of 18/20 in both.
 
 🚀 I enjoy building innovative tech projects to solve real-world problems. My main interests include Software Engineering, Machine Learning, Mobile Apps, Web & Cloud Technologies.
-
-🌱 I'm currently looking for full-time opportunities in software development and machine learning.
 
 ### 🌍 Languages
 
@@ -33,7 +31,7 @@
 ## ✏️ Projects
 
 Want to see what I've been working on? Check out my [full project list](https://m21ark.github.io/projects) on my website!
--->
+
 
 ## 📈 GitHub stats
 
@@ -41,3 +39,5 @@ Want to see what I've been working on? Check out my [full project list](https://
     <a href="https://github.com/m21ark">
     <img height="300em" src="https://github-readme-stats.vercel.app/api?username=m21ark&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
 </div>
+
+-->
